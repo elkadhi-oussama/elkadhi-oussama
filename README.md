@@ -6,13 +6,13 @@
       align="right"
       width="300"
     />
-- 🔭 I’m currently working on **FREELANCE**
+- 🔭 I’m currently working on **Full Remote**
 
-- 🌱 I’m currently learning **TypeScript, Next JS, MySQL**
+- 🌱 I’m currently learning **Cybersecurity**
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **elkadhioussama93@gmail.com**
+- 📫 How to reach me **elkadhioussama@gmx.fr**
 
 - ⚡ Fun fact **I think I am funny**
 
